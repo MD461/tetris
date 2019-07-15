@@ -1,0 +1,36 @@
+body {
+    background-color: #263238;
+}
+table {
+    margin: 0 auto; /* 中央寄せ */
+    width: 450px;
+    height: 500px;
+}
+td {
+    width: 9%; /* 横10マス */
+    height: 10%; /* 縦20マス */
+}
+
+.default {
+    background-color: #455A64;
+}
+
+.stick {
+    background-color: #03A9F4;
+}
+
+.number{
+    background-color: #FFF;
+    font-size: 200%;
+    text-align: center;
+}
+
+.symbol{
+    background-color: #0F0;
+    font-size: 200%;
+    text-alig n: center;
+}
+
+.first{
+  background-color: #000;
+}
