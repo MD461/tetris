@@ -21,16 +21,26 @@ td {
 
 .number{
     background-color: #FFF;
-    font-size: 200%;
+    font-size: 150%;
     text-align: center;
 }
 
 .symbol{
     background-color: #0F0;
-    font-size: 200%;
+    font-size: 150%;
     text-alig n: center;
 }
 
 .first{
   background-color: #000;
+}
+
+#nextblocks{
+    font-size: 100px;
+    color: blue;
+}
+
+#test{
+    font-size: 100px;
+    color: blue;
 }
